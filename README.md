@@ -4,4 +4,5 @@
 - Can Compare to Issued Warnings
 - Can Modify Criteria
 
-[Demo image] (https://hunter3789.github.io/wrn_chk/image/demo_image1.png)
+[Demo image]
+<img src="https://hunter3789.github.io/wrn_chk/image/demo_image1.png">
